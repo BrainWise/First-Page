@@ -2,4 +2,4 @@
 
 Link to the live site https://brainwise.github.io/First-Page/
 
-This is BraiWise first test site on Github. It's great to test Github.
+This is BrainWise first test site on Github. It's great to test Github.
